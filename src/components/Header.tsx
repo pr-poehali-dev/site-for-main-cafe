@@ -33,6 +33,12 @@ const Header = () => {
               Скриншоты
             </a>
             <a
+              href="#donate"
+              className="text-white hover:text-green-200 transition-colors"
+            >
+              Донат
+            </a>
+            <a
               href="#rules"
               className="text-white hover:text-green-200 transition-colors"
             >
